@@ -8,13 +8,13 @@ git init
 
 # Step 2: Add all files and check status
 
-git add.
+git add .
 
 git status
 
 # Step 3: Create initial commit
 
-git commit -m "Initial commit: Iris MLOps project
+git commit -m "Initial commit: Iris MLOps project"
 
 Data loading and preprocessing pipeline
 Feature engineering with scaling and polynomial features
@@ -27,7 +27,7 @@ Unit tests"
 
 # Step 4: Add remote (GitHub)
 
-git remote add origin https://github.com/sadiyanaaz/ML_Project.git
+git remote add origin https://github.com/wangjieshipku/mlops.git
 
 # If already added "origin", first remove it:
 git remote remove origin
